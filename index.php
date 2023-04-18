@@ -56,7 +56,7 @@
                     </strong></p>
                     <p>Versión PHP: <strong>
                             <?php
-                            PHP_VERSION
+                            phpversion()
                             ?>
                     </strong></p>    
                     <p>Variable de entorno: <strong>
