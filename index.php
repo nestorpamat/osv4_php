@@ -63,7 +63,7 @@
                             <?php
                             echo $_ENV["INFORMACION"]
                             ?>
-                    
+                    </strong></p>   
                     <a class="btn btn-primary page-scroll" href="#about">Click To Scroll Down!</a>
                 </div>
             </div>
