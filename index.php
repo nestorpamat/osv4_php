@@ -54,16 +54,8 @@
                         echo $today;
                         ?>
                     </strong></p>
-                    <p>Versión PHP: <strong>
-                            <?php
-                            echo phpversion()
-                            ?>
-                    </strong></p>    
-                    <p>Variable de entorno: <strong>
-                            <?php
-                            echo $_ENV["INFORMACION"]
-                            ?>
-                    </strong></p>   
+                    
+                    
                     <a class="btn btn-primary page-scroll" href="#about">Click To Scroll Down!</a>
                 </div>
             </div>
