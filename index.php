@@ -46,7 +46,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Curso OpenShift v4 (Versión 2) </h1>
+                    <h1>Curso OpenShift v4 (Versión 2)</h1>
                     <h2>Aplicación escrita en PHP</h2>
                     <p>Fecha: <strong>
                         <?php
